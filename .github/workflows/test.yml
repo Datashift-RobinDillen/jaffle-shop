@@ -62,4 +62,4 @@ jobs:
           context: .
           platforms: linux/amd64,linux/arm64
           push: true
-          tags: ghcr.io/bliblabloe/dbt-jaffleshop:latest
+          tags: ghcr.io/datashift-robindillen/dbt-jaffleshop:latest
